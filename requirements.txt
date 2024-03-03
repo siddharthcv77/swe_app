@@ -10,4 +10,6 @@ PyYAML==6.0.1
 requests==2.31.0
 sqlparse==0.4.4
 typing-extensions==4.10.0
-urllib3
+urllib3==2.2.1
+black
+flake8
